@@ -46,13 +46,9 @@ Specialties: Java / Spring, Node.js / NestJS, React / Vue, Blockchain integratio
 
 ## Professional Experience (short)
 
-- **Dekalabs** — Senior Full-Stack Developer (2022 – Present): Web3 platforms, AI automation, tokenization pilots, cloud infra
-- **Prodevelop** — Senior / Junior Full-Stack Developer (2019 – 2022): Port-sector web applications, enterprise framework improvements
-- **Indra** — Backend Developer (2018 – 2019): Java backend for public administration projects
-
-## Repositories
-
-Visit my GitHub profile to see my repositories and pinned projects.
+- **Dekalabs** — Senior Full-Stack Developer (2022 – Present): Web3 platforms, AI automation, tokenization, cloud infra
+- **Prodevelop** — Senior / Junior Full-Stack Developer (2019 – 2022): Port-sector web applications, enterprise framework improvements and ownership
+- **Indra** — Full Stack Developer (2018 – 2019): Java/PHP and GVA frontends for public administration projects
 
 ---
 
