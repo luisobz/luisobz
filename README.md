@@ -1,8 +1,3 @@
-<!--
-Profile README generated from the user's resume. Includes dynamic GitHub stats
-and an automated workflow that fills the "Top repositories" table by stars.
--->
-
 <h1 align="center">Luis Ballester Zafra ✨</h1>
 
 <p align="center">
@@ -55,15 +50,6 @@ Specialties: Java / Spring, Node.js / NestJS, React / Vue, Blockchain integratio
 - **Prodevelop** — Senior / Junior Full-Stack Developer (2019 – 2022): Port-sector web applications, enterprise framework improvements
 - **Indra** — Backend Developer (2018 – 2019): Java backend for public administration projects
 
-## GitHub Stats
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=luisobz&show_icons=true&theme=tokyonight&count_private=true" alt="Luis's GitHub stats"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisobz&layout=compact&theme=tokyonight" alt="Top languages"/></td>
-  </tr>
-</table>
-
 ## Repositories
 
 Visit my GitHub profile to see my repositories and pinned projects.
@@ -74,5 +60,3 @@ Visit my GitHub profile to see my repositories and pinned projects.
 
 LinkedIn: https://www.linkedin.com/in/luisbz/  
 Email: luisobz44@gmail.com
-
-If you'd like, I can iterate this README (style, badges, layout, extra widgets).
