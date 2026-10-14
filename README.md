@@ -1,7 +1,7 @@
 <h1 align="center">Luis Ballester Zafra ✨</h1>
 
 <p align="center">
-  Senior Full-Stack Software Engineer • Java | Node | React | Web3
+  Head of Engineering at ClickDefense • Full-Stack | Cloud | Security
 </p>
 
 <p align="center">
@@ -12,21 +12,24 @@
 
 ## About
 
-Senior Full-Stack Software Engineer with 8+ years of experience designing and delivering scalable APIs, web applications, and Web3 platforms. I focus on architecture, refactoring legacy systems, and building end-to-end products that ship.
+Head of Engineering at ClickDefense, with 8+ years of experience building digital products. I combine product development and technical leadership with cloud infrastructure, security and automation. My background spans APIs, web applications, AI platforms and Web3 integrations.
 
-Specialties: Java / Spring, Node.js / NestJS, React / Vue, Blockchain integrations, Cloud (AWS / GCP / Terraform).
+Specialties: Java / Spring, Node.js / NestJS, React / Vue, Blockchain integrations, Cloud infrastructure (AWS / Azure / GCP), infrastructure as code, identity and delivery automation.
 
 ## Tech Stack
 
-- Backend / DevOps: Node.js, NestJS, Fastify, Java, Spring, PostgreSQL, MySQL, Oracle, Redis, RabbitMQ, REST APIs, SDKs, AWS, GCP, Terraform, Docker, nginx, Linode
-- Frontend: React, Vue, refine.dev
+- Backend / DevOps: Node.js, NestJS, Fastify, Java, Spring, PostgreSQL, MySQL, Oracle, Redis, RabbitMQ, REST APIs, SDKs, AWS, Azure, GCP, Terraform, Ansible, GitHub Actions, self-hosted runners, Docker, Traefik, nginx, Linode
+- Security / Identity: OpenBao, Microsoft 365, Entra ID, Intune, short-lived certificates, federated authentication
+- Frontend: React, Next.js, Vue, refine.dev
 - Blockchain / Web3: viem, smart contract integration, tokenization, wallet integrations
 
 ## Key Skills
 
 - Full-Stack Development & API Architecture
 - System Design, Data Modeling & Product Implementation
-- Scalable Cloud Deployments and Infra as Code
+- Cloud Infrastructure, Infrastructure as Code & CI/CD
+- Secrets Management, Identity & Access Security
+- Technical Leadership, Documentation & Knowledge Transfer
 - Blockchain & Web3 Integrations (smart contracts, tokenization)
 - High-Performance Databases and Real-Time Systems
 - AI-driven automation for faster product delivery
@@ -44,9 +47,26 @@ Specialties: Java / Spring, Node.js / NestJS, React / Vue, Blockchain integratio
 - **Web3 & Blockchain Platforms** — Launch tooling, ticketing, tokenization pilots and REST APIs to simplify blockchain access for client apps.
 - **AI-Powered Lead Generation Platform** — Automated personalized content and landing pages from user signals and real-time data.
 
-## Professional Experience (short)
+## Professional Experience
 
-- **Dekalabs** — Senior Full-Stack Developer (2022 – Present): Web3 platforms, AI automation, tokenization, cloud infra
+### ClickDefense — Head of Engineering
+**July 2026 – Present**
+
+Product development and cross-functional ownership of cloud infrastructure, security and technical process automation.
+
+- Designed and automated AWS and Azure infrastructure with Terraform and Ansible, including staging, production and internal company infrastructure.
+- Implemented centralised secrets management, short-lived certificate access and federated deployment authentication, reducing reliance on persistent credentials.
+- Standardised development and release pipelines, including self-hosted runners.
+- Analysed and optimised AWS and Azure costs through service optimisation and resource removal or replacement.
+- Improved application and API performance, security and observability through retries, fallbacks and query optimisation.
+- Research and development in fingerprinting and signal analysis to improve automated traffic detection.
+- Technical coordination, documentation, knowledge transfer and task delegation.
+
+**Technologies:** AWS, Azure, Terraform, Ansible, GitHub Actions, OpenBao, Microsoft 365, Entra ID, Intune, Next.js, React, MongoDB, Traefik and nginx.
+
+### Earlier experience
+
+- **Dekalabs** — Senior Full-Stack Developer & Tech Lead (March 2022 – May 2026): Web3 platforms, AI automation, tokenization, cloud infrastructure
 - **Prodevelop** — Senior / Junior Full-Stack Developer (2019 – 2022): Port-sector web applications, enterprise framework improvements and ownership
 - **Indra** — Full Stack Developer (2018 – 2019): Java/PHP and GVA frontends for public administration projects
 
