@@ -18,7 +18,7 @@ Specialties: Java / Spring, Node.js / NestJS, React / Vue, Blockchain integratio
 
 ## Tech Stack
 
-- Backend / DevOps: Node.js, NestJS, Fastify, Java, Spring, PostgreSQL, MySQL, Oracle, Redis, RabbitMQ, REST APIs, SDKs, AWS, Azure, GCP, Terraform, Ansible, GitHub Actions, self-hosted runners, Docker, Traefik, nginx, Linode
+- Backend / DevOps: Node.js, NestJS, Fastify, Java, Spring, PostgreSQL, MongoDB, MySQL, Oracle, Redis, RabbitMQ, REST APIs, SDKs, AWS, Azure, GCP, Terraform, Ansible, GitHub Actions, self-hosted runners, Docker, Traefik, nginx, Linode
 - Security / Identity: OpenBao, Microsoft 365, Entra ID, Intune, short-lived certificates, federated authentication
 - Frontend: React, Next.js, Vue, refine.dev
 - Blockchain / Web3: viem, smart contract integration, tokenization, wallet integrations
@@ -33,6 +33,7 @@ Specialties: Java / Spring, Node.js / NestJS, React / Vue, Blockchain integratio
 - Blockchain & Web3 Integrations (smart contracts, tokenization)
 - High-Performance Databases and Real-Time Systems
 - AI-driven automation for faster product delivery
+- Analysis and identification of automated traffic
 
 ## Highlights
 
@@ -52,17 +53,15 @@ Specialties: Java / Spring, Node.js / NestJS, React / Vue, Blockchain integratio
 ### ClickDefense — Head of Engineering
 **July 2026 – Present**
 
-Product development and cross-functional ownership of cloud infrastructure, security and technical process automation.
+Product development and technical leadership, with cross-functional responsibility for infrastructure, security and automation.
 
-- Designed and automated AWS and Azure infrastructure with Terraform and Ansible, including staging, production and internal company infrastructure.
-- Implemented centralised secrets management, short-lived certificate access and federated deployment authentication, reducing reliance on persistent credentials.
-- Standardised development and release pipelines, including self-hosted runners.
-- Analysed and optimised AWS and Azure costs through service optimisation and resource removal or replacement.
-- Improved application and API performance, security and observability through retries, fallbacks and query optimisation.
-- Research and development in fingerprinting and signal analysis to improve automated traffic detection.
-- Technical coordination, documentation, knowledge transfer and task delegation.
-
-**Technologies:** AWS, Azure, Terraform, Ansible, GitHub Actions, OpenBao, Microsoft 365, Entra ID, Intune, Next.js, React, MongoDB, Traefik and nginx.
+- Design and evolution of cloud platforms and internal infrastructure.
+- Improvements to security, identity and access management.
+- Automation of development and software delivery processes.
+- Cost and resource optimisation.
+- Improvements to application and API performance, reliability and observability.
+- Analysis and identification of automated traffic.
+- Technical coordination, documentation and knowledge transfer.
 
 ### Earlier experience
 
